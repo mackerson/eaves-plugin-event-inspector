@@ -1,0 +1,17 @@
+{
+  "id": "com.enclave.event-inspector",
+  "name": "Event Inspector",
+  "version": "1.0.0",
+  "description": "Real-time event monitoring and debugging tool for development",
+  "author": "Enclave",
+  "type": "ui",
+  "entry": "index.cjs",
+  "sandboxVersion": 1,
+  "permissions": ["ui:views:register"],
+  "ui": {
+    "entry": "ui/dist/index.js",
+    "components": {
+      "EventInspectorComponent": "named"
+    }
+  }
+}
