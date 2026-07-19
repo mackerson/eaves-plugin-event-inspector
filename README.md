@@ -37,12 +37,12 @@ This plugin demonstrates:
 ## Files
 
 - `plugin.json` - Plugin manifest
-- `index.js` - Plugin entry point
+- `index.cjs` - Plugin entry point
 - `README.md` - This file
 
 ## Component
 
-Uses `EventInspectorComponent` from `src/renderer/components/plugins/EventInspectorComponent.tsx`
+Uses `EventInspectorComponent` from `ui/src/EventInspectorComponent.tsx`
 
 ## Development
 
