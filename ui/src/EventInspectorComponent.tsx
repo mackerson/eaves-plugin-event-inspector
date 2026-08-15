@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
-// Access app dependencies from window.EnclaveAPI
-const { Button, Input, Badge, AppIcon } = window.EnclaveAPI.UI;
+// Access app dependencies from window.EavesAPI
+const { Button, Input, Badge, AppIcon } = window.EavesAPI.UI;
 
 interface CapturedEvent {
   id: string;
@@ -130,7 +130,7 @@ export function EventInspectorComponent() {
     const url = URL.createObjectURL(dataBlob);
     const link = document.createElement('a');
     link.href = url;
-    link.download = `enclave-events-${Date.now()}.json`;
+    link.download = `eaves-events-${Date.now()}.json`;
     link.click();
     URL.revokeObjectURL(url);
   };

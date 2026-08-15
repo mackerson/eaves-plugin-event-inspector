@@ -1,11 +1,11 @@
 # Event Inspector Plugin
 
 **Version**: 1.0.0
-**ID**: `com.enclave.event-inspector`
+**ID**: `com.eaves.event-inspector`
 
 ## Description
 
-Real-time event monitoring and debugging tool for Enclave development. Monitor system events, AI interactions, plugin events, and custom events in real-time.
+Real-time event monitoring and debugging tool for Eaves development. Monitor system events, AI interactions, plugin events, and custom events in real-time.
 
 ## Features
 
@@ -18,7 +18,7 @@ Real-time event monitoring and debugging tool for Enclave development. Monitor s
 
 ## Usage
 
-This plugin is bundled with Enclave for development purposes. Access the Event Inspector by clicking the 🔍 Events icon in the sidebar.
+This plugin is bundled with Eaves for development purposes. Access the Event Inspector by clicking the 🔍 Events icon in the sidebar.
 
 ## Event Categories
 

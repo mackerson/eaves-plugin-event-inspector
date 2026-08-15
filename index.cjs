@@ -1,5 +1,5 @@
 /**
- * Event Inspector Plugin for Enclave
+ * Event Inspector Plugin for Eaves
  * Real-time event monitoring and debugging
  */
 

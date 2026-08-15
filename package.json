@@ -1,5 +1,5 @@
 {
-  "name": "@enclave-plugin/event-inspector-ui",
+  "name": "@eaves-plugin/event-inspector-ui",
   "version": "1.0.0",
   "description": "UI bundle for Event Inspector plugin",
   "private": true,
