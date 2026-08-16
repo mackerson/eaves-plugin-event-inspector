@@ -1,7 +1,7 @@
 {
   "id": "com.eaves.event-inspector",
   "name": "Event Inspector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Real-time event monitoring and debugging tool for development",
   "author": "Eaves",
   "type": "ui",
